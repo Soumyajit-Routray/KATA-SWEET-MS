@@ -1,1 +1,1 @@
-# KATA-SWEET-MS
+# Kata_Sweet_MS
